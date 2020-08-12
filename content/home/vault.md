@@ -21,14 +21,14 @@ subtitle = ""
   description = "33%"
 
 [[feature]]
-  icon = "chart-line"
+  icon = "database"
   icon_pack = "fas"
   name = "GraphDB"
   description = "33%"  
 
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
+  icon = "docker"
+  icon_pack = "fab"
   name = "Openshift"
   description = "33%"
 
