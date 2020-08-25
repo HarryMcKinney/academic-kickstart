@@ -4,7 +4,7 @@ title: Alex Karman
 
 # Username (this should match the folder name)
 authors:
-- alex
+- admin
 
 # Is this the primary user of the site?
 superuser: true
