@@ -1,15 +1,13 @@
 ---
-title: second-post-cmd-line
-author: ~
+title: Uploading to S3 via R
+author: Matthew Mitchell
 date: '2020-08-25'
-slug: second-post-cmd-line
+slug: uploading-to-s3-via-r
 categories: []
 tags: []
 ---
 
-This is some new additions to the code here.
-
-For example, you might want to know how to upload files from S3 using R: 
+Here's how to upload files from S3 using R: 
 
 ```{r}
 #Create DataFrame

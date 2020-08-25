@@ -1,14 +1,13 @@
 ---
 title: Imputing Null Values
-author: Matt Mitchell
+author: harry
 date: '2020-08-11'
 slug: imputing-null-values
 categories: []
 tags: []
 ---
 
-#Test Blogdown Page
-
+```{r}
 #Load the package
 library(zoo)
 
@@ -28,3 +27,4 @@ aggregate(x, as.Date(as.yearmon(time(x))), mean)
 
 #fill using median; also use aggregate as above, replacing mean with median
 aggregate(x, as.Date(as.yearmon(time(x))), median)
+```
