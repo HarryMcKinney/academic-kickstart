@@ -1,6 +1,6 @@
 ---
 title: Uploading to S3 via R
-author: Matthew Mitchell
+authors: ["harry"]
 date: '2020-08-25'
 slug: uploading-to-s3-via-r
 categories: []
